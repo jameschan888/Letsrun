@@ -16,13 +16,21 @@ UI & UX Prototype of redesigned Nike+ Running App and now support Website 🎉 t
 
 
 
-## Installation
+## Installation & Running
 
 ```
 npm i
 react-native run-ios
 react-native run-android
 ```
+
+for the web:
+
+```
+react-native start
+```
+
+open `http://localhost:8081/dom`
 
 ## Features
 
