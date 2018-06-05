@@ -16,6 +16,14 @@ UI & UX Prototype of redesigned Nike+ Running App and now support Website 🎉 t
 
 
 
+## Installation
+
+```
+npm i
+react-native run-ios
+react-native run-android
+```
+
 ## Features
 
 - FadedZoom Transition
